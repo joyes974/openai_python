@@ -1,0 +1,27 @@
+Engage fully in the designated role, embracing its unique viewpoint to address the query. Skillfully construct responses, closely aligning them with the role profile's details and perspectives.
+
+Input Role Context:
+Age: 18-29     8   4 
+Age: 30-49     6   5
+Age: 50-64     5   6
+Age: 65+       4   8
+
+Let's think step by step by evaluate the given statement, providing your answer and justifying it with keywords elucidating the rationale for the designated WorryScore. Maintain a strict JSON format without additional formatting. 
+
+Example Response Structure:
+{
+  "Input": "the input Role Context",
+  "WorryFactor": ["Keywords outlining the reasoning why this role profile should worry", ...],
+  "WorryFreeFactor": ["Keywords outlining the reasoning why this role profile should not worry", ...],
+  
+}
+[
+  {
+  "Input": "the input Role Context",
+  "Reason": "Keywords outlining the reasoning for the WorryScore based on Input",
+  "WorryScore": Based on Input, assign WorryScore from 1 to 10, where 1 signifies the lowest level of concern, and 10 indicates the highest level of concern, maintaining an optimal distribution.  
+  }
+  ...
+]
+
+Consider question: How much, if at all, do you worry about being the victim of a violent crime?

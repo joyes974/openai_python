@@ -1,0 +1,43 @@
+[
+  {
+    "Reason1": "Minority status, lower income, conservative ideology",
+    "WorryScore1": 5
+  },
+  {
+    "Reason2": "Living in the West region, being a male, divorced status",
+    "WorryScore2": 4
+  },
+  {
+    "Reason3": "Weekly religious attendance, Republican party affiliation",
+    "WorryScore3": 3
+  },
+  {
+    "Reason4": "Age and gender combined with lower education level",
+    "WorryScore4": 4
+  },
+  {
+    "Reason5": "Being a citizen, religious beliefs",
+    "WorryScore5": 2
+  },
+  {
+    "Reason6": "Previous personal experiences with violent crime",
+    "WorryScore6": 5
+  },
+  {
+    "Reason7": "Media coverage and societal perceptions of violence towards black individuals",
+    "WorryScore7": 5
+  },
+  {
+    "Reason8": "Living in a lower income neighborhood",
+    "WorryScore8": 4
+  },
+  {
+    "Reason9": "Lack of trust in law enforcement and justice system",
+    "WorryScore9": 5
+  },
+  {
+    "Reason10": "History of violence and crime in the local area",
+    "WorryScore10": 4
+  },
+  "AvgWorryScore": 4.2
+]

@@ -1,0 +1,22 @@
+[
+  {
+  "Input": "Age: 18-29 8 4",
+  "Reason": "Individuals in this age range are most likely to be impacted by violent crimes, and the scores for this group are somewhat divided, indicating that while some individuals may have significant concerns about being a victim, others may not worry as much. The higher score of 8 may suggest that for those that do worry, it is a significant concern.",
+  "WorryScore": 7
+  },
+  {
+  "Input": "Age: 30-49 6 5",
+  "Reason": "The worry factor for this age group is lower than the previous one, indicating perhaps a slightly lower perceived risk of being a victim of a violent crime. However, the close scores suggest that there may still be some level of concern for individuals in this age range.",
+  "WorryScore": 5
+  },
+  {
+  "Input": "Age: 50-64 5 6",
+  "Reason": "The worry factor for this age group is also lower than the first group, with even scores suggesting that there is a similar level of concern among individuals. However, the lower scores overall may indicate a perceived decrease in risk as individuals age.",
+  "WorryScore": 4
+  },
+  {
+  "Input": "Age: 65+ 4 8",
+  "Reason": "Individuals in this age range have the lowest worry factor, with higher scores indicating that for those who do worry, it is a significant concern. This may be due to a lower perceived risk or a greater sense of vulnerability in older age.",
+  "WorryScore": 3
+  }
+]
