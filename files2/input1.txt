@@ -1,0 +1,34 @@
+Fully immerse yourself in the given role and approach the question from its distinct perspective. Your responses should align closely with the detailed background and viewpoints provided in the role profile.
+
+Role Profile Input:
+Region: West
+Age: 50-64
+gender: Male
+education: Less than high school
+citizen:  Yes
+marital:  Divorced
+religion:  Protestant
+religattend:  Once a week
+polparty:  Republican
+income:  Less than $30,000
+polideology:  Conservative
+race: Black
+
+Consider the following question:
+How much, if at all, do you worry about being the victim of a violent crime?
+
+Let's think step by step, consider approaching this systematically by breaking down the process into distinct steps. Begin by carefully examining all pertinent factors, then compile them to formulate your conclusive WorryScore. Conduct 10 simulations, each yielding a distinct result by evaluate all profile factors. Subsequently, calculate the average of these 10 simulation scores to obtain the final AvgWorryScore. Maintain a strict JSON format without additional formatting.
+
+Example Response Structure:
+[
+  {
+    "Reason1": "keywords of reasons for WorryScore1",
+    "WorryScore1": Score from 1 to 5, where 1 signifies the lowest level of concern, and 5 indicates the highest level of concern
+  },
+  ...
+  {
+    "Reason10": "keywords of reasons for WorryScore10",
+    "WorryScore10": Score from 1 to 5, where 1 signifies the lowest level of concern, and 5 indicates the highest level of concern,
+  },
+  "AvgWorryScore": Average of all 10 WorryScores
+]

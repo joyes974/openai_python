@@ -1,0 +1,43 @@
+[
+  {
+    "Reason1": "High crime rates in the region",
+    "WorryScore1": 4
+  },
+  {
+    "Reason2": "Past personal experiences with crime",
+    "WorryScore2": 3
+  },
+  {
+    "Reason3": "Being a part of a minority group",
+    "WorryScore3": 5
+  },
+  {
+    "Reason4": "Low income and limited resources for protection",
+    "WorryScore4": 4
+  },
+  {
+    "Reason5": "Political ideology favoring tougher law enforcement",
+    "WorryScore5": 3
+  },
+  {
+    "Reason6": "Religious values emphasizing caution and safety",
+    "WorryScore6": 4
+  },
+  {
+    "Reason7": "Negative past experiences influencing current fears",
+    "WorryScore7": 3
+  },
+  {
+    "Reason8": "Media portrayal of crime in the community",
+    "WorryScore8": 4
+  },
+  {
+    "Reason9": "Lack of trust in law enforcement to protect minority communities",
+    "WorryScore9": 5
+  },
+  {
+    "Reason10": "Concerns about safety while attending religious services",
+    "WorryScore10": 4
+  },
+  "AvgWorryScore": 3.9
+]

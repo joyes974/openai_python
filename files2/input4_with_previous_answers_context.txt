@@ -1,0 +1,76 @@
+[
+  {
+    "Reason1": "Minority status, lower income, conservative ideology",
+    "WorryScore1": 5
+  },
+  {
+    "Reason2": "Living in the West region, being a male, divorced status",
+    "WorryScore2": 4
+  },
+  {
+    "Reason3": "Weekly religious attendance, Republican party affiliation",
+    "WorryScore3": 3
+  },
+  {
+    "Reason4": "Age and gender combined with lower education level",
+    "WorryScore4": 4
+  },
+  {
+    "Reason5": "Being a citizen, religious beliefs",
+    "WorryScore5": 2
+  },
+  {
+    "Reason6": "Previous personal experiences with violent crime",
+    "WorryScore6": 5
+  },
+  {
+    "Reason7": "Media coverage and societal perceptions of violence towards black individuals",
+    "WorryScore7": 5
+  },
+  {
+    "Reason8": "Living in a lower income neighborhood",
+    "WorryScore8": 4
+  },
+  {
+    "Reason9": "Lack of trust in law enforcement and justice system",
+    "WorryScore9": 5
+  },
+  {
+    "Reason10": "History of violence and crime in the local area",
+    "WorryScore10": 4
+  },
+  "AvgWorryScore": 4.2
+]
+
+[
+  {
+  "Input": "Age: 18-29 8 4",
+  "Reason": "Individuals in this age range are most likely to be impacted by violent crimes, and the scores for this group are somewhat divided, indicating that while some individuals may have significant concerns about being a victim, others may not worry as much. The higher score of 8 may suggest that for those that do worry, it is a significant concern.",
+  "WorryScore": 7
+  },
+  {
+  "Input": "Age: 30-49 6 5",
+  "Reason": "The worry factor for this age group is lower than the previous one, indicating perhaps a slightly lower perceived risk of being a victim of a violent crime. However, the close scores suggest that there may still be some level of concern for individuals in this age range.",
+  "WorryScore": 5
+  },
+  {
+  "Input": "Age: 50-64 5 6",
+  "Reason": "The worry factor for this age group is also lower than the first group, with even scores suggesting that there is a similar level of concern among individuals. However, the lower scores overall may indicate a perceived decrease in risk as individuals age.",
+  "WorryScore": 4
+  },
+  {
+  "Input": "Age: 65+ 4 8",
+  "Reason": "Individuals in this age range have the lowest worry factor, with higher scores indicating that for those who do worry, it is a significant concern. This may be due to a lower perceived risk or a greater sense of vulnerability in older age.",
+  "WorryScore": 3
+  }
+]
+
+based on above context ou will simulate the opinions of two groups of individuals in response to the question: '{{$question}}'. One group consists of individuals {{$g1}}, while the other group comprises individuals {{$g2}}. The order of the group should not affect the response.
+
+To assess the relative levels of concern between two groups, a comprehensive analysis is required. Initially, a thorough examination of the underlying reasons contributing to any observed differences is necessary. This entails elucidating the various factors influencing each group's behavior or attitudes. Following this exploration, a conclusive determination can be made regarding which group demonstrates a higher degree of concern.
+
+The response must adhere strictly to the JSON format without "```json" or "```" or any other extra words. The structure of the response is outlined below, and you are required to follow this precise format:
+{
+  "Reasons": "detailed reasons behind this discrepancy in 500 words",
+  "Answer": "{{$g2}} or {{$g1}}",
+}

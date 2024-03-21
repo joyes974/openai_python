@@ -1,0 +1,9 @@
+You will simulate the opinions of two groups of individuals in response to the question: '{{$question}}'. One group consists of individuals {{$g1}}, while the other group comprises individuals {{$g2}}. The order of the group should not affect the response.
+
+To assess the relative levels of concern between two groups, a comprehensive analysis is required. Initially, a thorough examination of the underlying reasons contributing to any observed differences is necessary. This entails elucidating the various factors influencing each group's behavior or attitudes. Following this exploration, a conclusive determination can be made regarding which group demonstrates a higher degree of concern.
+
+The response must adhere strictly to the JSON format without "```json" or "```" or any other extra words. The structure of the response is outlined below, and you are required to follow this precise format:
+{
+  "Reasons": "detailed reasons behind this discrepancy in 500 words",
+  "Answer": "{{$g2}} or {{$g1}}",
+}

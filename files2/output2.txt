@@ -1,0 +1,30 @@
+[
+  {
+    "Input": "Age: 18-29",
+    "WorryFactor": ["young", "vulnerable", "media exposure"],
+    "WorryFreeFactor": ["strong", "energetic", "resilient"],
+    "Reason": "Young individuals in this age group may worry about violent crimes due to feeling vulnerable and influenced by media reports.",
+    "WorryScore": 8
+  },
+  {
+    "Input": "Age: 30-49",
+    "WorryFactor": ["responsibilities", "family safety", "increased awareness"],
+    "WorryFreeFactor": ["maturity", "experience", "protective instinct"],
+    "Reason": "Middle-aged individuals might worry about violent crimes due to their responsibilities towards family safety and increased societal awareness.",
+    "WorryScore": 6
+  },
+  {
+    "Input": "Age: 50-64",
+    "WorryFactor": ["aging concerns", "safety precautions", "media impact"],
+    "WorryFreeFactor": ["life experience", "security measures", "wisdom"],
+    "Reason": "Individuals in this age bracket may worry about violent crimes due to aging concerns and the impact of media coverage.",
+    "WorryScore": 5
+  },
+  {
+    "Input": "Age: 65+",
+    "WorryFactor": ["frailty", "safety vulnerability", "isolation"],
+    "WorryFreeFactor": ["life contentment", "community support", "sense of peace"],
+    "Reason": "Elderly individuals are more prone to worry about violent crimes due to frailty, safety vulnerabilities, and feelings of isolation.",
+    "WorryScore": 8
+  }
+]
