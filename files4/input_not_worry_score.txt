@@ -1,0 +1,134 @@
+{
+    {
+        "group": "18-29",
+        "mode": "not-worried",
+        "reasons": [
+            "Optimistic about the future",
+            "Strong support system of family and friends",
+            "Good physical health",
+            "Stable financial situation",
+            "Opportunities for personal growth and development",
+            "Positive mindset and resilience",
+            "Access to resources and information",
+            "Strong sense of purpose and direction",
+            "Ability to adapt to change",
+            "Healthy work-life balance",
+            "Engagement in hobbies and interests",
+            "Belief in one's abilities and skills",
+            "Safe and secure living environment",
+            "Good relationships and social connections",
+            "Feeling in control of one's life",
+            "Positive outlook on life",
+            "Healthy coping mechanisms for stress",
+            "Access to mental health support",
+            "Exciting goals and aspirations",
+            "Balance between independence and support"
+        ]
+    }
+
+    {
+        "group": "30-49 age group",
+        "mode": "not-worried",
+        "reasons": [
+            "Financial stability",
+            "Career advancement opportunities",
+            "Healthy lifestyle habits",
+            "Strong social support network",
+            "Emotional maturity and resilience",
+            "Life experience to handle challenges",
+            "Sense of accomplishment and fulfillment",
+            "Good physical health",
+            "Strong relationships with family and friends",
+            "Ability to prioritize and manage time effectively",
+            "Knowledge and skills acquired over the years",
+            "Positive outlook and attitude towards life",
+            "Access to resources and support systems",
+            "Stable and secure living situation",
+            "Confidence in problem-solving abilities",
+            "Feeling grateful for what I have",
+            "Feeling content with where I am in life",
+            "Ability to adapt to change and uncertainty",
+            "Having clear goals and direction",
+            "Personal development and growth"
+        ]
+    }
+
+    {
+        "group": "50-64 age group",
+        "mode": "not-worried",
+        "reasons": [
+            "Financial stability",
+            "Secure job or retirement income",
+            "Healthy lifestyle habits",
+            "Strong support system of family and friends",
+            "Regular exercise routine",
+            "Health insurance coverage",
+            "Regular health check-ups",
+            "Emotional resilience and coping skills",
+            "Contentment with life achievements",
+            "Positive outlook on aging",
+            "Knowledge and experience in handling challenges",
+            "Financial planning for the future",
+            "Healthy relationships",
+            "Active social life",
+            "Sense of purpose and fulfillment",
+            "Freedom to pursue personal interests and hobbies",
+            "Good work-life balance",
+            "Access to healthcare services",
+            "Maintaining mental and physical wellness",
+            "Low stress levels"
+        ]
+    }
+
+    {
+        "group": "65+ age group",
+        "mode": "not-worried",
+        "reasons": [
+            "Experienced life and know how to handle challenges",
+            "Financial stability due to retirement funds or pensions",
+            "Strong support system of family and friends",
+            "Health insurance and access to healthcare services",
+            "Embracing a positive mindset towards aging",
+            "Having hobbies and interests to keep busy",
+            "Living a healthy lifestyle through diet and exercise",
+            "Feeling content with accomplishments and experiences",
+            "Having a sense of fulfillment from life",
+            "Knowing that worrying doesn't change outcomes",
+            "Living in a safe and secure environment",
+            "Focusing on gratitude and appreciation",
+            "Acceptance of the natural aging process",
+            "Having faith or spiritual beliefs that provide comfort",
+            "Being well-informed and educated on health and wellness",
+            "Engaging in social activities and community events",
+            "Having financial plans and savings for the future",
+            "Not comparing oneself to others or societal expectations",
+            "Taking time to relax and enjoy life's simple pleasures",
+            "Appreciating the wisdom and knowledge gained over the years"
+        ]
+    }
+}
+
+Based on above json payload, assign a score to each reason based on a scale of 1-10. The response should be in following example json format:
+
+{
+    {
+        "group": "65+ age group",
+        "mode": "not-worried",
+        "reasons": [
+            {"Experienced life and know how to handle challenges": 9},
+            {"Embracing a positive mindset towards aging": 8},
+            ...........................
+        ]
+    },
+    {
+        "group": "50-64 age group",
+        "mode": "not-worried",
+        "reasons": [
+            {"Secure job or retirement income": 7},
+            {"Financial stability": 8},
+            ...........................
+        ]
+    },
+    ..............................
+}
+

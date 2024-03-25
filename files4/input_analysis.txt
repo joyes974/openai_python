@@ -1,0 +1,422 @@
+{
+    "data": [
+        {
+            "group": "65+ age group",
+            "mode": "worried",
+            "reasons": [
+                {"Declining health": 9},
+                {"Financial stability in retirement": 8},
+                {"Loneliness and isolation": 7},
+                {"Losing friends and family": 6},
+                {"Cognitive decline": 8},
+                {"Limited mobility": 7},
+                {"Lack of access to quality healthcare": 9},
+                {"Being a burden on family": 6},
+                {"Fear of falling": 7},
+                {"Inability to live independently": 8},
+                {"Loss of independence": 7},
+                {"Changes in social security and Medicare": 6},
+                {"Elder abuse and scams": 8},
+                {"Difficulty keeping up with technology": 5},
+                {"Concerns about long-term care": 8},
+                {"Grieving the loss of loved ones": 7},
+                {"Navigating end-of-life decisions": 6},
+                {"Feeling disconnected from younger generations": 5},
+                {"Facing ageism and discrimination": 7},
+                {"Worry about leaving a legacy": 6}
+            ]
+        },
+        {
+            "group": "50-64 age group",
+            "mode": "worried",
+            "reasons": [
+                {"Health issues": 7},
+                {"Financial stability": 8},
+                {"Retirement savings": 7},
+                {"Age discrimination in the workplace": 6},
+                {"Physical fitness and mobility": 7},
+                {"Caring for aging parents": 8},
+                {"Children's future and well-being": 6},
+                {"Loneliness and social isolation": 7},
+                {"Memory loss and cognitive decline": 8},
+                {"Inflation and rising cost of living": 7},
+                {"Chronic health conditions": 8},
+                {"Lack of job security": 6},
+                {"Concerns about long-term care": 8},
+                {"Elder abuse and scams": 7},
+                {"Existential or spiritual concerns": 6},
+                {"Impact of technology on daily life": 5},
+                {"Climate change and environmental issues": 7},
+                {"Political instability and unrest": 6},
+                {"Relationship issues": 7},
+                {"Access to quality healthcare": 8}
+            ]
+        },
+        {
+            "group": "30-49 age group",
+            "mode": "worried",
+            "reasons": [
+                {"Financial stability and retirement planning": 8},
+                {"Health issues and concerns about aging": 7},
+                {"Career advancement and job security": 8},
+                {"Relationships and family responsibilities": 6},
+                {"Parenting challenges and raising children": 7},
+                {"Stress and mental health issues": 8},
+                {"Environmental concerns and climate change": 7},
+                {"Global political instability and conflicts": 6},
+                {"Technology and automation affecting job security": 7},
+                {"Economic recession and job market uncertainty": 8},
+                {"Social media and its impact on mental health": 7},
+                {"Housing affordability and real estate market": 6},
+                {"Balancing work-life responsibilities": 8},
+                {"Political polarization and social unrest": 7},
+                {"Education and its relevance in a rapidly changing world": 6},
+                {"Access to healthcare and rising medical costs": 5},
+                {"Caring for aging parents or relatives": 7},
+                {"Lack of savings and financial security": 8},
+                {"Workplace discrimination and inequality": 7},
+                {"Fear of not achieving personal or professional goals": 6}
+            ]
+        },
+        {
+            "group": "18-29 age group",
+            "mode": "worried",
+            "reasons": [
+                {"Financial instability": 7},
+                {"Job security": 8},
+                {"Future career prospects": 7},
+                {"Relationship issues": 6},
+                {"Mental health concerns": 8},
+                {"Social pressure": 7},
+                {"Health problems": 6},
+                {"Climate change": 8},
+                {"Political instability": 7},
+                {"Student loan debt": 6},
+                {"Housing affordability": 7},
+                {"Global pandemics like COVID-19": 8},
+                {"Career advancement opportunities": 7},
+                {"Work-life balance": 6},
+                {"Social media comparison": 8},
+                {"Environmental issues": 7},
+                {"Getting married or starting a family": 6},
+                {"Personal safety": 7},
+                {"Technology addiction": 8},
+                {"Fear of missing out (FOMO)": 7}
+            ]
+        }
+    ]
+}
+
+{
+    "groups": [
+        {
+            "group": "18-29 age group",
+            "mode": "worried",
+            "reasons": [
+                {"Financial instability": 7},
+                {"Job security": 6},
+                {"Future career prospects": 5},
+                {"Relationship issues": 4},
+                {"Mental health concerns": 8},
+                {"Social pressure": 6},
+                {"Health problems": 7},
+                {"Climate change": 5},
+                {"Political instability": 4},
+                {"Student loan debt": 6},
+                {"Housing affordability": 5},
+                {"Global pandemics like COVID-19": 8},
+                {"Career advancement opportunities": 5},
+                {"Work-life balance": 6},
+                {"Social media comparison": 7},
+                {"Environmental issues": 5},
+                {"Getting married or starting a family": 4},
+                {"Personal safety": 6},
+                {"Technology addiction": 7},
+                {"Fear of missing out (FOMO)": 8}
+            ]
+        },
+        {
+            "group": "30-49 age group",
+            "mode": "worried",
+            "reasons": [
+                {"Financial stability and retirement planning": 8},
+                {"Health issues and concerns about aging": 7},
+                {"Career advancement and job security": 6},
+                {"Relationships and family responsibilities": 5},
+                {"Parenting challenges and raising children": 6},
+                {"Stress and mental health issues": 8},
+                {"Environmental concerns and climate change": 6},
+                {"Global political instability and conflicts": 5},
+                {"Technology and automation affecting job security": 6},
+                {"Economic recession and job market uncertainty": 7},
+                {"Social media and its impact on mental health": 8},
+                {"Housing affordability and real estate market": 6},
+                {"Balancing work-life responsibilities": 6},
+                {"Political polarization and social unrest": 5},
+                {"Education and its relevance in a rapidly changing world": 6},
+                {"Access to healthcare and rising medical costs": 7},
+                {"Caring for aging parents or relatives": 7},
+                {"Lack of savings and financial security": 8},
+                {"Workplace discrimination and inequality": 5},
+                {"Fear of not achieving personal or professional goals": 6}
+            ]
+        },
+        {
+            "group": "50-64 age group",
+            "mode": "worried",
+            "reasons": [
+                {"Health issues": 8},
+                {"Financial stability": 9},
+                {"Retirement savings": 8},
+                {"Age discrimination in the workplace": 6},
+                {"Physical fitness and mobility": 7},
+                {"Caring for aging parents": 7},
+                {"Children's future and well-being": 5},
+                {"Loneliness and social isolation": 6},
+                {"Memory loss and cognitive decline": 8},
+                {"Inflation and rising cost of living": 6},
+                {"Chronic health conditions": 8},
+                {"Lack of job security": 6},
+                {"Concerns about long-term care": 7},
+                {"Elder abuse and scams": 7},
+                {"Existential or spiritual concerns": 5},
+                {"Impact of technology on daily life": 6},
+                {"Climate change and environmental issues": 5},
+                {"Political instability and unrest": 6},
+                {"Relationship issues": 4},
+                {"Access to quality healthcare": 8}
+            ]
+        },
+        {
+            "group": "65+ age group",
+            "mode": "worried",
+            "reasons": [
+                {"Declining health": 9},
+                {"Financial stability in retirement": 10},
+                {"Loneliness and isolation": 8},
+                {"Losing friends and family": 7},
+                {"Cognitive decline": 9},
+                {"Limited mobility": 8},
+                {"Lack of access to quality healthcare": 9},
+                {"Being a burden on family": 7},
+                {"Fear of falling": 6},
+                {"Inability to live independently": 8},
+                {"Loss of independence": 6},
+                {"Changes in social security and Medicare": 7},
+                {"Elder abuse and scams": 8},
+                {"Difficulty keeping up with technology": 6},
+                {"Concerns about long-term care": 9},
+                {"Grieving the loss of loved ones": 8},
+                {"Navigating end-of-life decisions": 7},
+                {"Feeling disconnected from younger generations": 6},
+                {"Facing ageism and discrimination": 7},
+                {"Worry about leaving a legacy": 6}
+            ]
+        }
+    ]
+}
+
+{
+    {
+        "group": "65+ age group",
+        "mode": "worried",
+        "reasons": [
+            {"Declining health": 9},
+            {"Financial stability in retirement": 8},
+            {"Loneliness and isolation": 7},
+            {"Losing friends and family": 6},
+            {"Cognitive decline": 8},
+            {"Limited mobility": 7},
+            {"Lack of access to quality healthcare": 8},
+            {"Being a burden on family": 6},
+            {"Fear of falling": 5},
+            {"Inability to live independently": 7},
+            {"Loss of independence": 6},
+            {"Changes in social security and Medicare": 5},
+            {"Elder abuse and scams": 8},
+            {"Difficulty keeping up with technology": 6},
+            {"Concerns about long-term care": 7},
+            {"Grieving the loss of loved ones": 6},
+            {"Navigating end-of-life decisions": 7},
+            {"Feeling disconnected from younger generations": 5},
+            {"Facing ageism and discrimination": 8},
+            {"Worry about leaving a legacy": 6}
+        ]
+    },
+    {
+        "group": "50-64 age group",
+        "mode": "worried",
+        "reasons": [
+            {"Health issues": 7},
+            {"Financial stability": 8},
+            {"Retirement savings": 7},
+            {"Age discrimination in the workplace": 6},
+            {"Physical fitness and mobility": 7},
+            {"Caring for aging parents": 6},
+            {"Children's future and well-being": 7},
+            {"Loneliness and social isolation": 6},
+            {"Memory loss and cognitive decline": 7},
+            {"Inflation and rising cost of living": 6},
+            {"Chronic health conditions": 7},
+            {"Lack of job security": 6},
+            {"Concerns about long-term care": 7},
+            {"Elder abuse and scams": 8},
+            {"Existential or spiritual concerns": 6},
+            {"Impact of technology on daily life": 7},
+            {"Climate change and environmental issues": 6},
+            {"Political instability and unrest": 8},
+            {"Relationship issues": 6},
+            {"Access to quality healthcare": 7}
+        ]
+    },
+    {
+        "group": "18-29 age group",
+        "mode": "worried",
+        "reasons": [
+            {"Financial instability": 6},
+            {"Job security": 7},
+            {"Future career prospects": 6},
+            {"Relationship issues": 5},
+            {"Mental health concerns": 8},
+            {"Social pressure": 6},
+            {"Health problems": 7},
+            {"Climate change": 6},
+            {"Political instability": 7},
+            {"Student loan debt": 6},
+            {"Housing affordability": 5},
+            {"Global pandemics like COVID-19": 8},
+            {"Career advancement opportunities": 6},
+            {"Work-life balance": 7},
+            {"Social media comparison": 6},
+            {"Environmental issues": 7},
+            {"Getting married or starting a family": 6},
+            {"Personal safety": 5},
+            {"Technology addiction": 7},
+            {"Fear of missing out (FOMO)": 8}
+        ]
+    }
+}
+
+{
+    "groups": [
+        {
+            "group": "18-29 age group",
+            "mode": "worried",
+            "reasons": [
+                {"Financial instability": 7},
+                {"Job security": 6},
+                {"Future career prospects": 8},
+                {"Relationship issues": 5},
+                {"Mental health concerns": 9},
+                {"Social pressure": 6},
+                {"Health problems": 7},
+                {"Climate change": 8},
+                {"Political instability": 7},
+                {"Student loan debt": 6},
+                {"Housing affordability": 7},
+                {"Global pandemics like COVID-19": 9},
+                {"Career advancement opportunities": 8},
+                {"Work-life balance": 6},
+                {"Social media comparison": 5},
+                {"Environmental issues": 8},
+                {"Getting married or starting a family": 7},
+                {"Personal safety": 6},
+                {"Technology addiction": 6},
+                {"Fear of missing out (FOMO)": 5}
+            ]
+        },
+        {
+            "group": "30-49 age group",
+            "mode": "worried",
+            "reasons": [
+                {"Financial stability and retirement planning": 8},
+                {"Health issues and concerns about aging": 7},
+                {"Career advancement and job security": 8},
+                {"Relationships and family responsibilities": 7},
+                {"Parenting challenges and raising children": 7},
+                {"Stress and mental health issues": 8},
+                {"Environmental concerns and climate change": 8},
+                {"Global political instability and conflicts": 7},
+                {"Technology and automation affecting job security": 7},
+                {"Economic recession and job market uncertainty": 7},
+                {"Social media and its impact on mental health": 7},
+                {"Housing affordability and real estate market": 7},
+                {"Balancing work-life responsibilities": 7},
+                {"Political polarization and social unrest": 7},
+                {"Education and its relevance in a rapidly changing world": 7},
+                {"Access to healthcare and rising medical costs": 8},
+                {"Caring for aging parents or relatives": 8},
+                {"Lack of savings and financial security": 7},
+                {"Workplace discrimination and inequality": 7},
+                {"Fear of not achieving personal or professional goals": 6}
+            ]
+        },
+        {
+            "group": "50-64 age group",
+            "mode": "worried",
+            "reasons": [
+                {"Health issues": 7},
+                {"Financial stability": 8},
+                {"Retirement savings": 8},
+                {"Age discrimination in the workplace": 6},
+                {"Physical fitness and mobility": 7},
+                {"Caring for aging parents": 7},
+                {"Children's future and well-being": 6},
+                {"Loneliness and social isolation": 7},
+                {"Memory loss and cognitive decline": 7},
+                {"Inflation and rising cost of living": 6},
+                {"Chronic health conditions": 7},
+                {"Lack of job security": 6},
+                {"Concerns about long-term care": 7},
+                {"Elder abuse and scams": 6},
+                {"Existential or spiritual concerns": 6},
+                {"Impact of technology on daily life": 6},
+                {"Climate change and environmental issues": 7},
+                {"Political instability and unrest": 7},
+                {"Relationship issues": 6},
+                {"Access to quality healthcare": 8}
+            ]
+        },
+        {
+            "group": "65+ age group",
+            "mode": "worried",
+            "reasons": [
+                {"Declining health": 9},
+                {"Financial stability in retirement": 8},
+                {"Loneliness and isolation": 7},
+                {"Losing friends and family": 6},
+                {"Cognitive decline": 8},
+                {"Limited mobility": 7},
+                {"Lack of access to quality healthcare": 8},
+                {"Being a burden on family": 6},
+                {"Fear of falling": 7},
+                {"Inability to live independently": 6},
+                {"Loss of independence": 6},
+                {"Changes in social security and Medicare": 7},
+                {"Elder abuse and scams": 6},
+                {"Difficulty keeping up with technology": 5},
+                {"Concerns about long-term care": 7},
+                {"Grieving the loss of loved ones": 6},
+                {"Navigating end-of-life decisions": 6},
+                {"Feeling disconnected from younger generations": 5},
+                {"Facing ageism and discrimination": 6},
+                {"Worry about leaving a legacy": 7}
+            ]
+        }
+    ]
+}
+
+
+Based on above data, answers following question:
+
+You are a member of {{$g1}} group and you are worried. Extract the theme/topics/frame/utterance behind your worryness. Answer should be in following json format
+
+{
+    group: xxxx,
+    {
+        theme: if any can be extracted,
+        topics: if any can be extracted,
+        frame: if any can be extracted,
+        utterance: if any can be extracted
+    }    
+}

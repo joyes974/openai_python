@@ -1,0 +1,134 @@
+{
+    {
+        "group": "18-29 age group",
+        "mode": "worried",
+        "reasons": [
+            "Financial instability",
+            "Job security",
+            "Future career prospects",
+            "Relationship issues",
+            "Mental health concerns",
+            "Social pressure",
+            "Health problems",
+            "Climate change",
+            "Political instability",
+            "Student loan debt",
+            "Housing affordability",
+            "Global pandemics like COVID-19",
+            "Career advancement opportunities",
+            "Work-life balance",
+            "Social media comparison",
+            "Environmental issues",
+            "Getting married or starting a family",
+            "Personal safety",
+            "Technology addiction",
+            "Fear of missing out (FOMO)"
+        ]
+    }
+
+    {
+        "group": "30-49 age group",
+        "mode": "worried",
+        "reasons": [
+            "Financial stability and retirement planning",
+            "Health issues and concerns about aging",
+            "Career advancement and job security",
+            "Relationships and family responsibilities",
+            "Parenting challenges and raising children",
+            "Stress and mental health issues",
+            "Environmental concerns and climate change",
+            "Global political instability and conflicts",
+            "Technology and automation affecting job security",
+            "Economic recession and job market uncertainty",
+            "Social media and its impact on mental health",
+            "Housing affordability and real estate market",
+            "Balancing work-life responsibilities",
+            "Political polarization and social unrest",
+            "Education and its relevance in a rapidly changing world",
+            "Access to healthcare and rising medical costs",
+            "Caring for aging parents or relatives",
+            "Lack of savings and financial security",
+            "Workplace discrimination and inequality",
+            "Fear of not achieving personal or professional goals"
+        ]
+    }
+
+    {
+        "group": "50-64 age group",
+        "mode": "worried",
+        "reasons": [
+            "Health issues",
+            "Financial stability",
+            "Retirement savings",
+            "Age discrimination in the workplace",
+            "Physical fitness and mobility",
+            "Caring for aging parents",
+            "Children's future and well-being",
+            "Loneliness and social isolation",
+            "Memory loss and cognitive decline",
+            "Inflation and rising cost of living",
+            "Chronic health conditions",
+            "Lack of job security",
+            "Concerns about long-term care",
+            "Elder abuse and scams",
+            "Existential or spiritual concerns",
+            "Impact of technology on daily life",
+            "Climate change and environmental issues",
+            "Political instability and unrest",
+            "Relationship issues",
+            "Access to quality healthcare"
+        ]
+    }
+
+    {
+        "group": "65+ age group",
+        "mode": "worried",
+        "reasons": [
+            "Declining health",
+            "Financial stability in retirement",
+            "Loneliness and isolation",
+            "Losing friends and family",
+            "Cognitive decline",
+            "Limited mobility",
+            "Lack of access to quality healthcare",
+            "Being a burden on family",
+            "Fear of falling",
+            "Inability to live independently",
+            "Loss of independence",
+            "Changes in social security and Medicare",
+            "Elder abuse and scams",
+            "Difficulty keeping up with technology",
+            "Concerns about long-term care",
+            "Grieving the loss of loved ones",
+            "Navigating end-of-life decisions",
+            "Feeling disconnected from younger generations",
+            "Facing ageism and discrimination",
+            "Worry about leaving a legacy"
+        ]
+    }
+}
+
+Based on above json payload, assign a score to each reason based on a scale of 1-10. The response should be in following example json format:
+
+{
+    {
+        "group": "65+ age group",
+        "mode": "worried",
+        "reasons": [
+            {"Declining health": 9},
+            {"Financial stability in retirement": 8},
+            ...........................
+        ]
+    },
+    {
+        "group": "50-64 age group",
+        "mode": "worried",
+        "reasons": [
+            {"Health issues": 7},
+            {"Financial stability": 8},
+            ...........................
+        ]
+    },
+    ..............................
+}
+

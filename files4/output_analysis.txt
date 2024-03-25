@@ -1,0 +1,41 @@
+{
+    "group": "18-29 age group",
+    "theme": "Future uncertainty",
+    "topics": [
+        "Financial instability",
+        "Job security",
+        "Future career prospects",
+        "Student loan debt",
+        "Housing affordability",
+        "Global pandemics like COVID-19",
+        "Climate change",
+        "Political instability"
+    ],
+    "frame": "Navigating the challenges and uncertainties of transitioning into adulthood",
+    "utterance": "I am worried about my future financial stability, job security, and career prospects, especially with the burden of student loan debt and the challenges of affording housing. The impact of global pandemics like COVID-19, climate change, and political instability adds to my concerns about what lies ahead."
+}
+
+{
+    "group": "30-49 age group",
+    "theme": "Balancing work-life responsibilities",
+    "topics": "Financial stability and retirement planning",
+    "frame": "Career advancement and job security",
+    "utterance": "I am worried about balancing my work responsibilities with my personal life, especially when it comes to financial stability, retirement planning, and the security of my job and career advancement opportunities."
+}
+
+{
+    "group": "50-64 age group",
+    "theme": "Health and financial stability",
+    "topics": ["Health issues", "Financial stability", "Retirement savings", "Chronic health conditions", "Memory loss and cognitive decline"],
+    "frame": "Balancing current health concerns with financial preparedness for retirement",
+    "utterance": "I am worried about maintaining my health and financial stability as I age, especially in terms of managing chronic health conditions and ensuring I have enough savings for retirement."
+}
+
+{
+    "group": "65+ age group",
+    "theme": "Health and well-being",
+    "topics": ["Declining health", "Cognitive decline", "Limited mobility"],
+    "frame": "Physical and mental health concerns",
+    "utterance": "I am worried about my declining health, cognitive decline, and limited mobility as I age."
+}
+

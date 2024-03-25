@@ -1,0 +1,38 @@
+{
+    "group": "18-29",
+    "theme": "Positive mindset and resilience",
+    "topics": "Strong support system, Opportunities for personal growth and development, Belief in one's abilities and skills",
+    "frame": "Stable financial situation, Safe and secure living environment",
+    "utterance": "I feel optimistic about the future and have a strong support system. I believe in my abilities and skills, and I have opportunities for personal growth. My financial situation is stable and I live in a safe and secure environment, which gives me a sense of control over my life."
+}
+
+{
+    "group": "30-49 age group",
+    "theme": "Achievement and Stability",
+    "topics": [
+        "Career success",
+        "Financial stability",
+        "Emotional well-being",
+        "Healthy relationships",
+        "Life balance"
+    ],
+    "frame": "Feeling accomplished and confident in managing various aspects of life",
+    "utterance": "I feel secure in my career, financially stable, emotionally resilient, and have strong relationships. I have achieved a good balance in life and feel content with where I am."
+}
+
+{
+    "group": "50-64 age group",
+    "theme": "Financial stability and emotional resilience",
+    "topics": ["Financial stability", "Emotional resilience"],
+    "frame": "Feeling content with life achievements and having a strong support system",
+    "utterance": "I am not worried because I have achieved financial stability and have developed emotional resilience through life experiences."
+}
+
+{
+    "group": "65+ age group",
+    "theme": "Embracing Aging with Positivity and Wisdom",
+    "topics": ["Embracing aging", "Positivity", "Wisdom"],
+    "frame": "Life experiences and knowledge gained over the years contribute to a worry-free mindset",
+    "utterance": "I have lived a fulfilling life, embraced the natural aging process with positivity and wisdom, and surrounded myself with supportive relationships and healthy habits. I have learned that worrying does not change outcomes and focus on gratitude, appreciation, and enjoying life's simple pleasures."
+}
+
