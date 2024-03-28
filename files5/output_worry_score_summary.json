@@ -1,0 +1,348 @@
+{
+    "group": "18-29 age group",
+    "mode": "worried",
+    "reasons": [
+        {
+            "Financial instability": 7,
+            "Summary": "Many individuals in the 18-29 age group are worried about their financial stability, which can be attributed to factors like low income, high expenses, and lack of savings."
+        },
+        {
+            "Job security": 8,
+            "Summary": "Job security is a major concern among the 18-29 age group, as they fear losing their jobs due to economic uncertainties, automation, or industry changes."
+        },
+        {
+            "Future career prospects": 7,
+            "Summary": "Concerns about future career prospects arise from the competitive job market, limited growth opportunities, and the need for continuous upskilling in the 18-29 age group."
+        },
+        {
+            "Relationship issues": 6,
+            "Summary": "Relationship issues such as conflicts, breakups, or strained friendships can contribute to worries in the 18-29 age group, impacting mental well-being."
+        },
+        {
+            "Mental health concerns": 8,
+            "Summary": "Mental health concerns like anxiety, depression, and stress are prevalent in the 18-29 age group, highlighting the need for greater support and awareness."
+        },
+        {
+            "Social pressure": 7,
+            "Summary": "The 18-29 age group often experiences social pressure to meet societal expectations in terms of success, appearance, relationships, and achievements."
+        },
+        {
+            "Health problems": 6,
+            "Summary": "Health problems, both physical and mental, can cause worry in the 18-29 age group, leading to stress and impacting overall well-being."
+        },
+        {
+            "Climate change": 8,
+            "Summary": "Concerns about climate change and its impact on the environment, economy, and future generations contribute to worries among the 18-29 age group."
+        },
+        {
+            "Political instability": 7,
+            "Summary": "Political instability, social unrest, and uncertainty about the future direction of the country are common worries for individuals in the 18-29 age group."
+        },
+        {
+            "Student loan debt": 6,
+            "Summary": "The burden of student loan debt, combined with the challenge of repayment and financial strain, is a significant worry for the 18-29 age group."
+        },
+        {
+            "Housing affordability": 7,
+            "Summary": "The high cost of housing and difficulty in finding affordable accommodation can cause worry among the 18-29 age group, impacting their financial stability."
+        },
+        {
+            "Global pandemics like COVID-19": 8,
+            "Summary": "The impact of global pandemics like COVID-19 on health, economy, social interactions, and daily life is a major source of worry for the 18-29 age group."
+        },
+        {
+            "Career advancement opportunities": 7,
+            "Summary": "Worries about limited career advancement opportunities, growth potential, and job satisfaction contribute to concerns within the 18-29 age group."
+        },
+        {
+            "Work-life balance": 6,
+            "Summary": "Striking a balance between work and personal life can be challenging for the 18-29 age group, leading to worries about burnout, stress, and time management."
+        },
+        {
+            "Social media comparison": 8,
+            "Summary": "Constant comparison on social media platforms, feelings of inadequacy, and pressure to portray a perfect life can lead to worries among the 18-29 age group."
+        },
+        {
+            "Environmental issues": 7,
+            "Summary": "Growing concerns about environmental issues like pollution, climate change, and sustainability contribute to worries in the 18-29 age group, reflecting a desire for a better future."
+        },
+        {
+            "Getting married or starting a family": 6,
+            "Summary": "The pressure to get married or start a family, societal expectations, and personal desires can lead to worries in the 18-29 age group regarding relationships and future plans."
+        },
+        {
+            "Personal safety": 7,
+            "Summary": "Worries about personal safety, including crime, accidents, and violence, can impact the sense of security and well-being in the 18-29 age group."
+        },
+        {
+            "Technology addiction": 8,
+            "Summary": "Concerns about technology addiction, screen time, social isolation, and mental health effects of excessive device usage are significant worries for the 18-29 age group."
+        },
+        {
+            "Fear of missing out (FOMO)": 7,
+            "Summary": "The fear of missing out on social events, experiences, or opportunities, fueled by social media and peer comparisons, can lead to worries and anxiety in the 18-29 age group."
+        }
+    ]
+}
+
+{
+    "group": "30-49 age group",
+    "mode": "worried",
+    "reasons": [
+        {
+            "Financial stability and retirement planning": 8,
+            "Summary": "Individuals in the 30-49 age group are concerned about their financial stability and planning for retirement. They worry about not having enough savings or investments to support themselves in their later years."
+        },
+        {
+            "Health issues and concerns about aging": 7,
+            "Summary": "Health concerns and worries about aging are prevalent in the 30-49 age group. They fear the impact of aging on their health and the potential health issues they may face as they grow older."
+        },
+        {
+            "Career advancement and job security": 8,
+            "Summary": "Career advancement and job security are major worries for individuals in the 30-49 age group. They are concerned about their career growth opportunities and the stability of their current jobs."
+        },
+        {
+            "Relationships and family responsibilities": 6,
+            "Summary": "Balancing relationships and family responsibilities is a source of worry for many in the 30-49 age group. They struggle to juggle their personal relationships and family obligations with their other commitments."
+        },
+        {
+            "Parenting challenges and raising children": 7,
+            "Summary": "Parenting challenges and the responsibilities of raising children weigh heavily on individuals in the 30-49 age group. They worry about providing a good upbringing for their children and addressing the various challenges that come with parenting."
+        },
+        {
+            "Stress and mental health issues": 8,
+            "Summary": "High levels of stress and concerns about mental health are common among the 30-49 age group. They feel overwhelmed by the multiple responsibilities they have and worry about the impact of stress on their mental well-being."
+        },
+        {
+            "Environmental concerns and climate change": 7,
+            "Summary": "Environmental concerns and worries about climate change are significant for individuals in the 30-49 age group. They are troubled by the impact of environmental issues on the planet and future generations."
+        },
+        {
+            "Global political instability and conflicts": 6,
+            "Summary": "Global political instability and conflicts are sources of worry for some in the 30-49 age group. They are concerned about the state of world affairs and the potential impact of political unrest on their lives."
+        },
+        {
+            "Technology and automation affecting job security": 7,
+            "Summary": "The impact of technology and automation on job security is a concern for individuals in the 30-49 age group. They worry about the potential loss of jobs due to technological advancements and automation."
+        },
+        {
+            "Economic recession and job market uncertainty": 8,
+            "Summary": "Economic recession and job market uncertainty are major worries for the 30-49 age group. They fear the instability of the economy and the impact it may have on their careers and financial security."
+        },
+        {
+            "Social media and its impact on mental health": 7,
+            "Summary": "The influence of social media on mental health is a concern for some in the 30-49 age group. They worry about the negative effects of social media on their well-being and relationships."
+        },
+        {
+            "Housing affordability and real estate market": 6,
+            "Summary": "Housing affordability and concerns about the real estate market are significant worries for individuals in the 30-49 age group. They struggle with the high cost of housing and the challenges of entering the real estate market."
+        },
+        {
+            "Balancing work-life responsibilities": 8,
+            "Summary": "Balancing work and personal life responsibilities is a common source of worry for the 30-49 age group. They find it challenging to manage their work commitments along with their personal and family obligations."
+        },
+        {
+            "Political polarization and social unrest": 7,
+            "Summary": "Political polarization and social unrest are concerns for some in the 30-49 age group. They worry about the division in society and the implications of social unrest on their communities."
+        },
+        {
+            "Education and its relevance in a rapidly changing world": 6,
+            "Summary": "The relevance of education in a fast-paced world is a worry for individuals in the 30-49 age group. They are concerned about keeping up with the changing demands of the job market and the value of their education."
+        },
+        {
+            "Access to healthcare and rising medical costs": 5,
+            "Summary": "Access to healthcare and the increasing costs of medical services are worries for some in the 30-49 age group. They fear not being able to afford quality healthcare when needed and the financial burden of rising medical expenses."
+        },
+        {
+            "Caring for aging parents or relatives": 7,
+            "Summary": "Caring for aging parents or relatives is a significant concern for individuals in the 30-49 age group. They worry about providing care and support for their elderly loved ones while managing their own responsibilities."
+        },
+        {
+            "Lack of savings and financial security": 8,
+            "Summary": "The lack of savings and financial security is a major worry for the 30-49 age group. They are concerned about not having enough savings or investments to secure their future and handle unforeseen financial challenges."
+        },
+        {
+            "Workplace discrimination and inequality": 7,
+            "Summary": "Workplace discrimination and inequality are sources of worry for some in the 30-49 age group. They are concerned about facing discrimination at work and the lack of equality in career opportunities."
+        },
+        {
+            "Fear of not achieving personal or professional goals": 6,
+            "Summary": "The fear of not achieving personal or professional goals weighs on individuals in the 30-49 age group. They worry about falling short of their ambitions and not reaching their desired level of success."
+        }
+    ]
+}
+
+{
+    "group": "50-64 age group",
+    "mode": "worried",
+    "reasons": [
+        {
+            "Health issues": 7,
+            "Summary": "Individuals in the 50-64 age group are concerned about various health issues that may arise as they grow older, such as chronic conditions and memory loss."
+        },
+        {
+            "Financial stability": 8,
+            "Summary": "The worry about financial stability is a major concern for this age group, as they are approaching retirement age and need to ensure they have enough savings to support themselves."
+        },
+        {
+            "Retirement savings": 7,
+            "Summary": "The fear of not having enough retirement savings is prevalent among individuals in the 50-64 age group, leading to concerns about their financial future."
+        },
+        {
+            "Age discrimination in the workplace": 6,
+            "Summary": "Age discrimination in the workplace is a significant worry for this age group, as they fear being passed over for opportunities due to their age."
+        },
+        {
+            "Physical fitness and mobility": 7,
+            "Summary": "Maintaining physical fitness and mobility is a concern for individuals in this age group, as they aim to stay healthy and active as they age."
+        },
+        {
+            "Caring for aging parents": 8,
+            "Summary": "The responsibility of caring for aging parents weighs heavily on individuals in the 50-64 age group, adding to their worries and stress."
+        },
+        {
+            "Children's future and well-being": 6,
+            "Summary": "Concerns about their children's future and well-being, such as education and financial stability, are a source of worry for this age group."
+        },
+        {
+            "Loneliness and social isolation": 7,
+            "Summary": "Feelings of loneliness and social isolation are common worries among individuals in the 50-64 age group, especially as they may face changes in their social circles."
+        },
+        {
+            "Memory loss and cognitive decline": 8,
+            "Summary": "The prospect of memory loss and cognitive decline is a significant concern for this age group, impacting their daily functioning and quality of life."
+        },
+        {
+            "Inflation and rising cost of living": 7,
+            "Summary": "The worry about inflation and the rising cost of living adds to the financial concerns of individuals in the 50-64 age group, affecting their financial planning."
+        },
+        {
+            "Chronic health conditions": 8,
+            "Summary": "Dealing with chronic health conditions is a worry for many in this age group, as they navigate the challenges of managing their health while aging."
+        },
+        {
+            "Lack of job security": 6,
+            "Summary": "Concerns about job security and potential layoffs are stressful for individuals in the 50-64 age group, as they may face difficulties finding new employment."
+        },
+        {
+            "Concerns about long-term care": 8,
+            "Summary": "The uncertainty about long-term care options and costs is a significant worry for this age group, as they plan for their future care needs."
+        },
+        {
+            "Elder abuse and scams": 7,
+            "Summary": "The fear of elder abuse and falling victim to scams is a prevalent concern among individuals in the 50-64 age group, leading to increased vigilance."
+        },
+        {
+            "Existential or spiritual concerns": 6,
+            "Summary": "Existential and spiritual concerns about the meaning of life and personal beliefs contribute to the worries of individuals in this age group."
+        },
+        {
+            "Impact of technology on daily life": 5,
+            "Summary": "The impact of technology on daily life, such as changes in communication and privacy concerns, is a source of worry for some in the 50-64 age group."
+        },
+        {
+            "Climate change and environmental issues": 7,
+            "Summary": "Concerns about climate change and environmental issues, such as sustainability and natural disasters, add to the worries of individuals in this age group."
+        },
+        {
+            "Political instability and unrest": 6,
+            "Summary": "Political instability and unrest, both domestically and globally, are sources of worry for some in the 50-64 age group, impacting their sense of security."
+        },
+        {
+            "Relationship issues": 7,
+            "Summary": "Issues related to relationships, such as conflicts with family or friends, are a concern for individuals in the 50-64 age group, affecting their emotional well-being."
+        },
+        {
+            "Access to quality healthcare": 8,
+            "Summary": "The worry about access to quality healthcare, including affordability and availability, is a major concern for individuals in the 50-64 age group, impacting their health outcomes."
+        }
+    ]
+}
+
+{
+    "group": "65+ age group",
+    "mode": "worried",
+    "reasons": [
+        {
+            "Declining health": 9,
+            "Summary": "Many individuals in the 65+ age group worry about their declining health as they age, facing challenges related to chronic conditions, medical expenses, and overall well-being."
+        },
+        {
+            "Financial stability in retirement": 8,
+            "Summary": "Concerns about financial stability in retirement are common among the 65+ age group, with worries about saving enough, managing expenses, and ensuring a comfortable lifestyle post-retirement."
+        },
+        {
+            "Loneliness and isolation": 7,
+            "Summary": "Loneliness and isolation are significant worries for many in the 65+ age group, as they may face social disconnection, lack of companionship, and difficulties in maintaining relationships."
+        },
+        {
+            "Losing friends and family": 6,
+            "Summary": "The fear of losing friends and family members weighs heavily on the minds of many in the 65+ age group, as they navigate through life changes and cope with loss."
+        },
+        {
+            "Cognitive decline": 8,
+            "Summary": "Cognitive decline poses a significant concern for the 65+ age group, with worries about memory loss, dementia, and the impact on daily functioning and independence."
+        },
+        {
+            "Limited mobility": 7,
+            "Summary": "Limited mobility is a common worry among the 65+ age group, affecting their ability to engage in activities, maintain independence, and navigate their physical environment."
+        },
+        {
+            "Lack of access to quality healthcare": 9,
+            "Summary": "Many individuals in the 65+ age group worry about the lack of access to quality healthcare, facing challenges in receiving timely and affordable medical treatment and services."
+        },
+        {
+            "Being a burden on family": 6,
+            "Summary": "The fear of being a burden on family members troubles many in the 65+ age group, as they strive to maintain their independence and self-sufficiency without imposing challenges on loved ones."
+        },
+        {
+            "Fear of falling": 7,
+            "Summary": "The fear of falling and related injuries is a prevalent worry among the 65+ age group, impacting their physical confidence, activity levels, and overall safety."
+        },
+        {
+            "Inability to live independently": 8,
+            "Summary": "The concern about the inability to live independently is a significant worry for many in the 65+ age group, facing challenges in daily activities, self-care, and household management."
+        },
+        {
+            "Loss of independence": 7,
+            "Summary": "The loss of independence is a distressing concern for individuals in the 65+ age group, as they grapple with diminishing autonomy, reliance on others, and changes in their personal freedom."
+        },
+        {
+            "Changes in social security and Medicare": 6,
+            "Summary": "The uncertainty surrounding changes in social security and Medicare programs worries many in the 65+ age group, impacting their financial stability, access to healthcare, and future planning."
+        },
+        {
+            "Elder abuse and scams": 8,
+            "Summary": "Elder abuse and scams are significant worries for the 65+ age group, as they seek to protect themselves from financial exploitation, fraud, and mistreatment in various forms."
+        },
+        {
+            "Difficulty keeping up with technology": 5,
+            "Summary": "Keeping up with technology poses a challenge for some in the 65+ age group, leading to concerns about digital literacy, communication barriers, and access to information and services."
+        },
+        {
+            "Concerns about long-term care": 8,
+            "Summary": "Concerns about long-term care weigh heavily on many in the 65+ age group, as they contemplate the need for assisted living, nursing care, and support services in later stages of life."
+        },
+        {
+            "Grieving the loss of loved ones": 7,
+            "Summary": "Grieving the loss of loved ones is a common emotional burden for individuals in the 65+ age group, as they cope with bereavement, loneliness, and the impact of losing cherished relationships."
+        },
+        {
+            "Navigating end-of-life decisions": 6,
+            "Summary": "Navigating end-of-life decisions is a challenging process for many in the 65+ age group, involving considerations about healthcare options, advanced directives, and preparing for the final stages of life."
+        },
+        {
+            "Feeling disconnected from younger generations": 5,
+            "Summary": "Feeling disconnected from younger generations can be a source of concern for some in the 65+ age group, leading to worries about social relevance, communication gaps, and generational differences."
+        },
+        {
+            "Facing ageism and discrimination": 7,
+            "Summary": "Facing ageism and discrimination is a distressing reality for many in the 65+ age group, as they encounter bias, stereotypes, and unequal treatment based on their age."
+        },
+        {
+            "Worry about leaving a legacy": 6,
+            "Summary": "The worry about leaving a legacy weighs on the minds of some in the 65+ age group, as they contemplate their impact, contributions, and how they will be remembered by future generations."
+        }
+    ]
+}
+

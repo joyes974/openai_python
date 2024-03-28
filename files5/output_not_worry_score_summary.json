@@ -1,0 +1,348 @@
+{
+    "group": "18-29 age group",
+    "mode": "not-worried",
+    "reasons": [
+        {
+            "Optimistic about the future": 8,
+            "Summary": "Individuals in this age group have a positive outlook towards what lies ahead, which helps them stay confident and hopeful in uncertain times."
+        },
+        {
+            "Strong support system of family and friends": 8,
+            "Summary": "The presence of a supportive network of family and friends provides a sense of security and comfort, enabling individuals to navigate challenges with the help of their loved ones."
+        },
+        {
+            "Good physical health": 8,
+            "Summary": "Being in good physical health contributes to overall well-being and resilience, allowing individuals to actively participate in various aspects of life without being hindered by health issues."
+        },
+        {
+            "Stable financial situation": 8,
+            "Summary": "Having a stable financial situation eliminates the stress associated with financial insecurities, allowing individuals to focus on other aspects of their lives and pursue their goals without constant worries about money."
+        },
+        {
+            "Opportunities for personal growth and development": 8,
+            "Summary": "Access to opportunities for personal growth and development allows individuals in this age group to continuously learn, evolve, and achieve their full potential, leading to a sense of fulfillment and satisfaction."
+        },
+        {
+            "Positive mindset and resilience": 8,
+            "Summary": "Maintaining a positive mindset and cultivating resilience enables individuals to face challenges with a strong mentality, bounce back from setbacks, and keep moving forward with determination."
+        },
+        {
+            "Access to resources and information": 7,
+            "Summary": "Having access to resources and information equips individuals with the necessary knowledge and tools to make informed decisions, seek help when needed, and stay well-informed about various aspects of life."
+        },
+        {
+            "Strong sense of purpose and direction": 7,
+            "Summary": "A strong sense of purpose and clear direction in life helps individuals stay motivated, set meaningful goals, and navigate obstacles with a sense of direction and focus."
+        },
+        {
+            "Ability to adapt to change": 7,
+            "Summary": "The ability to adapt to change allows individuals to embrace new opportunities, navigate transitions, and thrive in dynamic environments, fostering a sense of agility and readiness for whatever comes their way."
+        },
+        {
+            "Healthy work-life balance": 7,
+            "Summary": "Maintaining a healthy work-life balance enables individuals to prioritize their well-being, relationships, and personal interests alongside their professional responsibilities, leading to overall satisfaction and fulfillment."
+        },
+        {
+            "Engagement in hobbies and interests": 7,
+            "Summary": "Actively engaging in hobbies and interests provides individuals with a sense of joy, relaxation, and personal fulfillment outside of their daily responsibilities, contributing to a balanced and well-rounded lifestyle."
+        },
+        {
+            "Belief in one's abilities and skills": 8,
+            "Summary": "Having a strong belief in one's abilities and skills instills confidence, self-assurance, and a sense of empowerment, allowing individuals to tackle challenges and pursue their aspirations with faith in their own capabilities."
+        },
+        {
+            "Safe and secure living environment": 7,
+            "Summary": "Living in a safe and secure environment offers peace of mind, stability, and a sense of comfort, enabling individuals to focus on their personal growth and well-being without constant concerns about their safety."
+        },
+        {
+            "Good relationships and social connections": 8,
+            "Summary": "Building and nurturing good relationships and social connections fosters a sense of belonging, support, and camaraderie, enriching individuals' lives and providing a sense of community and connection."
+        },
+        {
+            "Feeling in control of one's life": 8,
+            "Summary": "Feeling in control of one's life empowers individuals to make decisions, set priorities, and shape their future according to their own values and aspirations, leading to a sense of autonomy and self-determination."
+        },
+        {
+            "Positive outlook on life": 8,
+            "Summary": "Having a positive outlook on life allows individuals to approach challenges with optimism, see opportunities in adversities, and maintain a hopeful attitude even in difficult circumstances."
+        },
+        {
+            "Healthy coping mechanisms for stress": 8,
+            "Summary": "Developing healthy coping mechanisms for stress equips individuals with effective strategies to manage and alleviate stress, promoting mental well-being, resilience, and a balanced approach to handling challenges."
+        },
+        {
+            "Access to mental health support": 7,
+            "Summary": "Having access to mental health support services ensures that individuals can seek help, guidance, and resources for their emotional well-being, fostering a supportive environment for maintaining mental health and seeking assistance when needed."
+        },
+        {
+            "Exciting goals and aspirations": 8,
+            "Summary": "Having exciting goals and aspirations motivates individuals to strive for personal growth, pursue their dreams, and create a fulfilling future, adding purpose, drive, and a sense of achievement to their lives."
+        },
+        {
+            "Balance between independence and support": 8,
+            "Summary": "Striking a balance between independence and support allows individuals to maintain autonomy while also having a network of help and guidance when needed, fostering self-reliance, confidence, and a sense of security in their interactions and decisions."
+        }
+    ]
+}
+
+{
+    "group": "30-49 age group",
+    "mode": "not-worried",
+    "reasons": [
+        {
+            "Financial stability": 8,
+            "Summary": "Individuals in the 30-49 age group are confident in their financial stability due to years of work experience and savings, which provides a sense of security and peace of mind."
+        },
+        {
+            "Career advancement opportunities": 7,
+            "Summary": "They see various opportunities for career growth and advancement, allowing them to continue to progress professionally and pursue their goals."
+        },
+        {
+            "Healthy lifestyle habits": 7,
+            "Summary": "Having developed healthy habits over the years, they prioritize their physical well-being, leading to a better quality of life and reduced worries about health issues."
+        },
+        {
+            "Strong social support network": 7,
+            "Summary": "They have built a strong network of family and friends who provide emotional support and encouragement, creating a sense of belonging and security."
+        },
+        {
+            "Emotional maturity and resilience": 8,
+            "Summary": "Their life experiences have helped them develop emotional maturity and resilience, enabling them to handle challenges and setbacks with a positive attitude."
+        },
+        {
+            "Life experience to handle challenges": 8,
+            "Summary": "Having faced various challenges in the past, they have the necessary life experience to tackle new obstacles confidently and effectively."
+        },
+        {
+            "Sense of accomplishment and fulfillment": 8,
+            "Summary": "Feeling accomplished and fulfilled in their personal and professional lives, they have a strong sense of purpose and satisfaction."
+        },
+        {
+            "Good physical health": 8,
+            "Summary": "Maintaining good physical health through regular exercise and a healthy lifestyle contributes to their overall well-being and reduces concerns about health issues."
+        },
+        {
+            "Strong relationships with family and friends": 8,
+            "Summary": "Having close relationships with loved ones creates a supportive environment that fosters emotional well-being and reduces feelings of worry and isolation."
+        },
+        {
+            "Ability to prioritize and manage time effectively": 7,
+            "Summary": "With the ability to prioritize tasks and manage their time efficiently, they feel in control of their responsibilities and can maintain a healthy work-life balance."
+        },
+        {
+            "Knowledge and skills acquired over the years": 7,
+            "Summary": "Accumulated knowledge and skills acquired through years of experience provide them with confidence in their abilities and readiness to face any challenges that come their way."
+        },
+        {
+            "Positive outlook and attitude towards life": 8,
+            "Summary": "Maintaining a positive outlook on life and having an optimistic attitude helps them navigate through difficulties with resilience and hope."
+        },
+        {
+            "Access to resources and support systems": 7,
+            "Summary": "Having access to various resources and support systems allows them to seek help when needed, making them feel secure and supported in times of uncertainty."
+        },
+        {
+            "Stable and secure living situation": 7,
+            "Summary": "Living in a stable and secure environment provides them with a sense of safety and comfort, reducing worries about their living conditions."
+        },
+        {
+            "Confidence in problem-solving abilities": 8,
+            "Summary": "Confident in their problem-solving skills, they trust their ability to find solutions to challenges that may arise, leading to a sense of empowerment and control."
+        },
+        {
+            "Feeling grateful for what I have": 8,
+            "Summary": "Practicing gratitude for the things they have in life helps them stay grounded and appreciative, fostering a positive mindset and reducing worries about what they lack."
+        },
+        {
+            "Feeling content with where I am in life": 8,
+            "Summary": "They feel satisfied and content with their current life circumstances, accepting where they are while continuing to work towards personal growth and fulfillment."
+        },
+        {
+            "Ability to adapt to change and uncertainty": 7,
+            "Summary": "Having the flexibility to adapt to changes and uncertainties in life allows them to face unknown situations with confidence and resilience."
+        },
+        {
+            "Having clear goals and direction": 7,
+            "Summary": "Having clear goals and a sense of direction in life provides them with focus and motivation, reducing worries about feeling lost or aimless."
+        },
+        {
+            "Personal development and growth": 8,
+            "Summary": "They prioritize personal development and growth, embracing opportunities for self-improvement and learning, which contributes to their overall well-being and sense of fulfillment."
+        }
+    ]
+}
+
+{
+    "group": "50-64 age group",
+    "mode": "not-worried",
+    "reasons": [
+        {
+            "Financial stability": 9,
+            "Summary": "Individuals in the 50-64 age group are not worried because they have achieved financial stability, which allows them to feel secure about their future financial well-being."
+        },
+        {
+            "Secure job or retirement income": 8,
+            "Summary": "The presence of a secure job or stable retirement income provides individuals in the 50-64 age group with a sense of security, leading to reduced worries about their financial future."
+        },
+        {
+            "Healthy lifestyle habits": 8,
+            "Summary": "Maintaining healthy lifestyle habits such as regular exercise, good nutrition, and adequate sleep contributes to the overall well-being and confidence of individuals in the 50-64 age group, making them worry less about health issues."
+        },
+        {
+            "Strong support system of family and friends": 8,
+            "Summary": "Having a strong support system of family and friends enables individuals in the 50-64 age group to feel emotionally supported and cared for, reducing their worries about facing challenges alone."
+        },
+        {
+            "Regular exercise routine": 7,
+            "Summary": "Engaging in a regular exercise routine helps individuals in the 50-64 age group maintain their physical health and mental well-being, leading to a reduced sense of worry and stress."
+        },
+        {
+            "Health insurance coverage": 7,
+            "Summary": "Having access to health insurance coverage provides individuals in the 50-64 age group with a sense of security and assurance that they can afford necessary medical care, reducing worries about health expenses."
+        },
+        {
+            "Regular health check-ups": 7,
+            "Summary": "Prioritizing regular health check-ups and preventive care allows individuals in the 50-64 age group to monitor their health status and address any potential issues early, leading to reduced worries about undiagnosed health conditions."
+        },
+        {
+            "Emotional resilience and coping skills": 8,
+            "Summary": "Developing emotional resilience and effective coping skills empowers individuals in the 50-64 age group to navigate life's challenges with confidence and composure, reducing worries and anxiety."
+        },
+        {
+            "Contentment with life achievements": 8,
+            "Summary": "Feeling content with their life achievements and experiences allows individuals in the 50-64 age group to have a sense of fulfillment and satisfaction, reducing worries about incompleteness or unmet goals."
+        },
+        {
+            "Positive outlook on aging": 7,
+            "Summary": "Maintaining a positive outlook on aging and embracing the wisdom that comes with growing older enables individuals in the 50-64 age group to worry less about the natural process of aging."
+        },
+        {
+            "Knowledge and experience in handling challenges": 7,
+            "Summary": "The accumulated knowledge and experience in handling life's challenges make individuals in the 50-64 age group feel confident in their problem-solving abilities, reducing worries about unforeseen obstacles."
+        },
+        {
+            "Financial planning for the future": 7,
+            "Summary": "Engaging in financial planning for the future enables individuals in the 50-64 age group to feel prepared and in control of their financial destiny, leading to reduced worries about instability or unpredictability."
+        },
+        {
+            "Healthy relationships": 8,
+            "Summary": "Nurturing healthy relationships with loved ones and maintaining strong social connections fosters emotional well-being and support for individuals in the 50-64 age group, reducing worries about loneliness or isolation."
+        },
+        {
+            "Active social life": 7,
+            "Summary": "Engaging in an active social life and participating in social activities and events provides individuals in the 50-64 age group with a sense of belonging and community, reducing worries about social isolation."
+        },
+        {
+            "Sense of purpose and fulfillment": 8,
+            "Summary": "Having a sense of purpose and fulfillment in life gives individuals in the 50-64 age group a reason to wake up each day with enthusiasm and passion, reducing worries about existential questions or lack of direction."
+        },
+        {
+            "Freedom to pursue personal interests and hobbies": 7,
+            "Summary": "The freedom to pursue personal interests and hobbies allows individuals in the 50-64 age group to engage in activities that bring them joy and fulfillment, reducing worries about monotony or boredom."
+        },
+        {
+            "Good work-life balance": 7,
+            "Summary": "Maintaining a good work-life balance enables individuals in the 50-64 age group to juggle professional responsibilities and personal life effectively, reducing worries about burnout or overwork."
+        },
+        {
+            "Access to healthcare services": 7,
+            "Summary": "Having access to healthcare services and medical facilities ensures that individuals in the 50-64 age group can seek timely medical assistance when needed, reducing worries about health emergencies or unmet healthcare needs."
+        },
+        {
+            "Maintaining mental and physical wellness": 8,
+            "Summary": "Prioritizing the maintenance of mental and physical wellness through self-care practices and healthy habits helps individuals in the 50-64 age group feel balanced and strong, reducing worries about health issues."
+        },
+        {
+            "Low stress levels": 8,
+            "Summary": "Keeping stress levels in check through stress-reduction techniques and mindfulness practices allows individuals in the 50-64 age group to feel calm and composed, reducing worries about the negative effects of chronic stress."
+        }
+    ]
+}
+
+{
+    "group": "65+ age group",
+    "mode": "not-worried",
+    "reasons": [
+        {
+            "Experienced life and know how to handle challenges": 9,
+            "Summary": "Individuals in this age group have gained valuable life experience over the years, which has equipped them with the skills and knowledge to effectively handle various challenges that come their way."
+        },
+        {
+            "Financial stability due to retirement funds or pensions": 8,
+            "Summary": "Many individuals in this age group have secured their financial stability by having retirement funds or pensions in place, providing them with a sense of financial security and peace of mind."
+        },
+        {
+            "Strong support system of family and friends": 9,
+            "Summary": "The presence of a strong support system comprising of family and friends plays a crucial role in ensuring emotional well-being and offering assistance during times of need or uncertainty."
+        },
+        {
+            "Health insurance and access to healthcare services": 8,
+            "Summary": "Having access to health insurance and healthcare services enables individuals in this age group to prioritize their well-being and address any health concerns or medical needs without financial strain."
+        },
+        {
+            "Embracing a positive mindset towards aging": 8,
+            "Summary": "Maintaining a positive attitude and embracing the aging process with optimism and acceptance helps individuals in this age group navigate life's changes and challenges with resilience."
+        },
+        {
+            "Having hobbies and interests to keep busy": 7,
+            "Summary": "Engaging in hobbies and interests provides a sense of purpose, fulfillment, and enjoyment, keeping individuals in this age group mentally stimulated and physically active."
+        },
+        {
+            "Living a healthy lifestyle through diet and exercise": 8,
+            "Summary": "Adopting a healthy lifestyle that includes balanced diet and regular exercise promotes overall well-being, vitality, and longevity among individuals in this age group."
+        },
+        {
+            "Feeling content with accomplishments and experiences": 8,
+            "Summary": "Reflecting on past accomplishments and experiences brings a sense of contentment and fulfillment, reminding individuals in this age group of their achievements and personal growth."
+        },
+        {
+            "Having a sense of fulfillment from life": 8,
+            "Summary": "Finding fulfillment and satisfaction in various aspects of life, such as relationships, work, and personal growth, contributes to a sense of overall well-being and happiness in individuals of this age group."
+        },
+        {
+            "Knowing that worrying doesn't change outcomes": 7,
+            "Summary": "Understanding that worrying does not alter outcomes or solve problems, individuals in this age group focus on productive actions and coping strategies instead of dwelling on negative thoughts."
+        },
+        {
+            "Living in a safe and secure environment": 7,
+            "Summary": "Residing in a safe and secure environment provides individuals in this age group with a sense of comfort, stability, and peace of mind, promoting overall well-being and quality of life."
+        },
+        {
+            "Focusing on gratitude and appreciation": 8,
+            "Summary": "Practicing gratitude and appreciating the present moment fosters a positive outlook and mindset, enhancing overall emotional well-being and resilience among individuals in this age group."
+        },
+        {
+            "Acceptance of the natural aging process": 7,
+            "Summary": "Embracing and accepting the natural process of aging allows individuals in this age group to focus on living fully in the present moment, appreciating each stage of life with grace and dignity."
+        },
+        {
+            "Having faith or spiritual beliefs that provide comfort": 8,
+            "Summary": "Finding comfort and solace in faith or spiritual beliefs offers individuals in this age group a source of strength, support, and guidance during challenging times, nurturing their overall well-being."
+        },
+        {
+            "Being well-informed and educated on health and wellness": 8,
+            "Summary": "Keeping abreast of health and wellness information empowers individuals in this age group to make informed choices, prioritize self-care, and maintain their well-being with knowledge and understanding."
+        },
+        {
+            "Engaging in social activities and community events": 7,
+            "Summary": "Participating in social activities and community events fosters connections, friendships, and a sense of belonging among individuals in this age group, enhancing their social support networks and well-being."
+        },
+        {
+            "Having financial plans and savings for the future": 7,
+            "Summary": "Having financial plans and savings for the future provides individuals in this age group with a sense of security, preparedness, and peace of mind for any unforeseen circumstances or retirement needs."
+        },
+        {
+            "Not comparing oneself to others or societal expectations": 8,
+            "Summary": "Avoiding comparison to others or societal expectations allows individuals in this age group to focus on their unique journey, values, and goals, fostering self-acceptance, confidence, and well-being."
+        },
+        {
+            "Taking time to relax and enjoy life's simple pleasures": 7,
+            "Summary": "Taking moments to relax and savor life's simple joys and pleasures promotes a sense of tranquility, mindfulness, and enjoyment among individuals in this age group, enhancing their overall well-being."
+        },
+        {
+            "Appreciating the wisdom and knowledge gained over the years": 9,
+            "Summary": "Recognizing and appreciating the wisdom, knowledge, and life lessons accumulated over the years brings a sense of fulfillment and pride to individuals in this age group, enriching their perspective and choices."
+        }
+    ]
+}
+

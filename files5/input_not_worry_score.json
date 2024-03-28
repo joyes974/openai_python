@@ -1,0 +1,108 @@
+{
+    "data": [
+        {
+            "group": "65+ age group",
+            "mode": "not-worried",
+            "reasons": [
+                {"Experienced life and know how to handle challenges": 9},
+                {"Financial stability due to retirement funds or pensions": 8},
+                {"Strong support system of family and friends": 9},
+                {"Health insurance and access to healthcare services": 8},
+                {"Embracing a positive mindset towards aging": 8},
+                {"Having hobbies and interests to keep busy": 7},
+                {"Living a healthy lifestyle through diet and exercise": 8},
+                {"Feeling content with accomplishments and experiences": 8},
+                {"Having a sense of fulfillment from life": 8},
+                {"Knowing that worrying doesn't change outcomes": 7},
+                {"Living in a safe and secure environment": 7},
+                {"Focusing on gratitude and appreciation": 8},
+                {"Acceptance of the natural aging process": 7},
+                {"Having faith or spiritual beliefs that provide comfort": 8},
+                {"Being well-informed and educated on health and wellness": 8},
+                {"Engaging in social activities and community events": 7},
+                {"Having financial plans and savings for the future": 7},
+                {"Not comparing oneself to others or societal expectations": 8},
+                {"Taking time to relax and enjoy life's simple pleasures": 7},
+                {"Appreciating the wisdom and knowledge gained over the years": 9}
+            ]
+        },
+        {
+            "group": "50-64 age group",
+            "mode": "not-worried",
+            "reasons": [
+                {"Financial stability": 9},
+                {"Secure job or retirement income": 8},
+                {"Healthy lifestyle habits": 8},
+                {"Strong support system of family and friends": 8},
+                {"Regular exercise routine": 7},
+                {"Health insurance coverage": 7},
+                {"Regular health check-ups": 7},
+                {"Emotional resilience and coping skills": 8},
+                {"Contentment with life achievements": 8},
+                {"Positive outlook on aging": 7},
+                {"Knowledge and experience in handling challenges": 7},
+                {"Financial planning for the future": 7},
+                {"Healthy relationships": 8},
+                {"Active social life": 7},
+                {"Sense of purpose and fulfillment": 8},
+                {"Freedom to pursue personal interests and hobbies": 7},
+                {"Good work-life balance": 7},
+                {"Access to healthcare services": 7},
+                {"Maintaining mental and physical wellness": 8},
+                {"Low stress levels": 8}
+            ]
+        },
+        {
+            "group": "30-49 age group",
+            "mode": "not-worried",
+            "reasons": [
+                {"Financial stability": 8},
+                {"Career advancement opportunities": 7},
+                {"Healthy lifestyle habits": 7},
+                {"Strong social support network": 7},
+                {"Emotional maturity and resilience": 8},
+                {"Life experience to handle challenges": 8},
+                {"Sense of accomplishment and fulfillment": 8},
+                {"Good physical health": 8},
+                {"Strong relationships with family and friends": 8},
+                {"Ability to prioritize and manage time effectively": 7},
+                {"Knowledge and skills acquired over the years": 7},
+                {"Positive outlook and attitude towards life": 8},
+                {"Access to resources and support systems": 7},
+                {"Stable and secure living situation": 7},
+                {"Confidence in problem-solving abilities": 8},
+                {"Feeling grateful for what I have": 8},
+                {"Feeling content with where I am in life": 8},
+                {"Ability to adapt to change and uncertainty": 7},
+                {"Having clear goals and direction": 7},
+                {"Personal development and growth": 8}
+            ]
+        },
+        {
+            "group": "18-29 age group",
+            "mode": "not-worried",
+            "reasons": [
+                {"Optimistic about the future": 8},
+                {"Strong support system of family and friends": 8},
+                {"Good physical health": 8},
+                {"Stable financial situation": 8},
+                {"Opportunities for personal growth and development": 8},
+                {"Positive mindset and resilience": 8},
+                {"Access to resources and information": 7},
+                {"Strong sense of purpose and direction": 7},
+                {"Ability to adapt to change": 7},
+                {"Healthy work-life balance": 7},
+                {"Engagement in hobbies and interests": 7},
+                {"Belief in one's abilities and skills": 8},
+                {"Safe and secure living environment": 7},
+                {"Good relationships and social connections": 8},
+                {"Feeling in control of one's life": 8},
+                {"Positive outlook on life": 8},
+                {"Healthy coping mechanisms for stress": 8},
+                {"Access to mental health support": 7},
+                {"Exciting goals and aspirations": 8},
+                {"Balance between independence and support": 8}
+            ]
+        }
+    ]
+}

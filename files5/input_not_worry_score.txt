@@ -1,0 +1,17 @@
+
+From above json object, summarize every reson for {{g1}} group and and provide response in following sample json format:
+
+{
+    "group": "{{g1}}",
+    "mode": "not-worried",
+    "reasons": [
+        {
+            "{{r1}}": 9,
+            "Summary": "A detail description"
+        },
+        {
+            "{{r2}}": 8,
+            "Summary": "A detail description"
+        },
+ ...........................................................    
+}  
